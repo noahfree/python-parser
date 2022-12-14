@@ -1,16 +1,14 @@
 # PoPl Parser Project
 PROJECT DEMO: https://youtu.be/c7TUihtfeSs 
 
-Group Name: **Python Python Parser Parsers**
-
 ### Team Members 
+Noah Free
+
 Andrew Brain
   
 Isaac Shroeder
 
 Wil Ohms
-
-Noah Free
 
 ## Project Explanation 
 ### Overview
